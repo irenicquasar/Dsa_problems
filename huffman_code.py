@@ -83,3 +83,4 @@ def output(text):
     print(display_huffman_code(text, huffman_code))  # Display Huffman code
     print(huffman_code)
 
+output()
